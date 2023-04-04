@@ -11,7 +11,7 @@ class ComplimentSerializer(serializers.ModelSerializer):
         }
 
     def validate_category(self, value):
-        valid_categories = ['skills', 'trait', 'appearance']
+        valid_categories = ['Skills', 'Trait', 'Appearance']
         if value not in valid_categories:
             raise serializers.ValidationError('Invalid category')
         return value
