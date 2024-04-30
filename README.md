@@ -1,4 +1,4 @@
-A ridiculously overengineered SQL compliment database using Django and Postgres. It is very silly and designed for learning purposes; its not intended to be used in a production environment. 
+A ridiculously overengineered SQL compliment database using Django and Postgres. It is very silly and designed for learning purposes and is not intended to be used in a production environment. 
 
 The compliment model is very simple: it contains an id, the compliment itself, and the category. 
 Valid categories are skills, trait, and appearance (backhanded compliments, in other words, are not allowed).
