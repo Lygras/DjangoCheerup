@@ -1,1 +1,1 @@
-A ridiculously overengineered compliment database using Django and Postgres.
+A ridiculously overengineered SQL compliment database using Django and Postgres.
