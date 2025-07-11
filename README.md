@@ -5,7 +5,7 @@ Valid categories are skills, trait, and appearance (backhanded compliments, in o
 
 If you want to deploy this yourself (lol), you'll need to do the following:
 
-- Set up and deplopy a PostGres server.
+- Set up and deploy a PostGres server.
   - I used Ubuntu Server: https://ubuntu.com/download/server
   - Postgres download here:https://www.postgresql.org/download/
     - Installation guide: https://www.postgresql.org/docs/current/tutorial-install.html
